@@ -3,3 +3,6 @@ Here's my sample map website!
 
 <iframe src="map.html" height="500" width="500"></iframe>
 You can explore this map as its own web page here.
+
+
+[Ver en pantalla completa]([https://duckduckgo.com](https://tusmapas.github.io/emaus/map#6/36.146/-6.814)https://tusmapas.github.io/emaus/map#6/36.146/-6.814)

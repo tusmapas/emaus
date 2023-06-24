@@ -5,4 +5,4 @@ Here's my sample map website!
 You can explore this map as its own web page here.
 
 
-[Ver en pantalla completa](https://tusmapas.github.io/emaus/map.html/)
+[Ver en pantalla completa](https://tusmapas.github.io/emaus/map.html)
